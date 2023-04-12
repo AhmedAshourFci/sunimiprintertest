@@ -1,0 +1,166 @@
+1,Users,المستخدمين,Users,1,0,1,NULL,NULL,NULL,NULL
+2,Users Permission,صلاحيات المستخدم,Users Permission,1,0,1,NULL,NULL,NULL,NULL
+3,Customers,بيانات العملاء,Customers,1,4,1,NULL,NULL,NULL,NULL
+4,Suppliers,الموردون,Suppliers,1,5,1,NULL,NULL,NULL,NULL
+5,Items,تكويد الأصناف,Items,1,15,1,NULL,NULL,NULL,NULL
+6,Units,وحدات الأصناف,Units,1,15,1,NULL,NULL,NULL,NULL
+7,Stores,تكويد المخازن,Stores,1,13,1,NULL,NULL,NULL,NULL
+8,Categories,مجموعات الأصناف,Categorys,1,15,1,NULL,NULL,NULL,NULL
+9,Company Settings,إعدادات الشركه,Company Seetings,1,0,1,NULL,NULL,NULL,NULL
+10,Cities,المدن والبلاد,Cities,1,4,1,NULL,NULL,NULL,NULL
+11,Countries,الدول,Countries,1,10,1,NULL,NULL,NULL,NULL
+12,Inventory Check,جرد المخزن,Inventory Check,1,15,1,NULL,NULL,NULL,NULL
+13,Employees,بيانات الموظفين,Employees,1,0,1,NULL,NULL,NULL,NULL
+14,Currency,العملات,Currency,1,11,0,NULL,NULL,NULL,NULL
+15,Item,الصنف,Item,3,0,1,NULL,NULL,NULL,NULL
+16,Branch,الفرع,Branch,3,0,1,NULL,NULL,NULL,NULL
+17,Salary,المرتب,Salary,3,0,1,NULL,NULL,NULL,NULL
+18,Job,الوظيقه,Job,3,0,1,NULL,NULL,NULL,NULL
+19,Is Default,الافتراضي,Is Default,3,0,1,NULL,NULL,NULL,NULL
+20,Unit,الوحده,Unit,3,0,1,NULL,NULL,NULL,NULL
+21,Rule,البند,Rule,3,0,1,NULL,NULL,NULL,NULL
+22,Address,العنوان,Address,3,0,1,NULL,NULL,NULL,NULL
+23,Store,المخزن,Store,3,0,1,NULL,NULL,NULL,NULL
+24,Name,الاسم,Name,3,0,1,NULL,NULL,NULL,NULL
+25,Phone,الموبايل,Phone,3,0,1,NULL,NULL,NULL,NULL
+26,Detail,تفاصيل العنوان,Detail,3,0,1,NULL,NULL,NULL,NULL
+27,ID,الهويه,ID,3,0,1,NULL,NULL,NULL,NULL
+28,E-Mail,الايميل,E-Mail,3,0,1,NULL,NULL,NULL,NULL
+29,Customer,العميل,Customer,3,0,1,NULL,NULL,NULL,NULL
+30,Mobile,الموبايل,Mobile,3,0,1,NULL,NULL,NULL,NULL
+31,Supplier,المورد,Supplier,3,0,1,NULL,NULL,NULL,NULL
+32,Company Name,اسم الشركه,Company Name,3,0,1,NULL,NULL,NULL,NULL
+33,Arabic Name,الأسم بالعربي,Arabic Name,3,0,1,NULL,NULL,NULL,NULL
+34,Employee,الموظف,Employee,3,0,1,NULL,NULL,NULL,NULL
+35,Price,السعر,Price,8,3,1,NULL,NULL,NULL,NULL
+36,Items,الأصناف,Items,8,3,1,NULL,NULL,NULL,NULL
+37,Return,مرتجع,Return,3,3,1,NULL,NULL,NULL,NULL
+38,Decimal Place,الفاصله العشريه,Decimal Place,3,0,1,NULL,NULL,NULL,NULL
+39,Balance,الرصيد,Balance,3,0,1,NULL,NULL,NULL,NULL
+40,User,المستخدم,User,3,0,1,NULL,NULL,NULL,NULL
+41,Change My Password,تغير كلمة المرور الخاصه بي,Change My Password,2,0,1,NULL,NULL,NULL,NULL
+42,Is Active,نشط,Is Active,3,0,1,NULL,NULL,NULL,NULL
+43,Decimal Place Number,الفاصله العشريه للأرقام,Decimal Place Number,3,0,1,NULL,NULL,NULL,NULL
+44,Add Tax To Items By Category,إضافة نسبة الضريبه للأصناف وفقا للمجموعه,Add Tax To Items By Category,2,0,1,NULL,NULL,NULL,NULL
+45,Tax  %,نسبة الضريبه,Tax  %,3,0,1,NULL,NULL,NULL,NULL
+46,Default Tax Percentage,نسبة الضريبه الافتراضيه,Default Tax Percentage,3,0,1,NULL,NULL,NULL,NULL
+47,Tax,نسبة الضريبه,Tax,3,0,1,NULL,NULL,NULL,NULL
+48,ItemName,الصنف,Item Name,3,0,1,NULL,NULL,NULL,NULL
+49,Unit_Price_Currency,السعر بالعمله,Unit Price,3,0,1,NULL,NULL,NULL,NULL
+50,Unit_Price,سعر الوحده,Unit Price,3,0,1,NULL,NULL,NULL,NULL
+51,ItemBalance,رصيد الصنف : ,Item Balance :,3,0,1,NULL,NULL,NULL,NULL
+52,Save,حفظ,Save,8,0,1,NULL,NULL,NULL,NULL
+53,Close,إغلاق,Close,8,0,1,NULL,NULL,NULL,NULL
+54,Delete,حذف,Delete,8,0,1,NULL,NULL,NULL,NULL
+55,Update,تعديل,Update,8,0,1,NULL,NULL,NULL,NULL
+56,New,جديد,New,8,0,1,NULL,NULL,NULL,NULL
+57,Search,بحث,Search,9,0,1,NULL,NULL,NULL,NULL
+58,Ok,موافق,Ok,8,0,1,NULL,NULL,NULL,NULL
+59,Search For Item ,بحث عن أصناف ,Search For Item ,3,0,1,NULL,NULL,NULL,NULL
+60,By ItemUnit,باوحدة الصنف,By ItemUnit,3,0,1,NULL,NULL,NULL,NULL
+61,Items,الأصناف,Items,9,0,1,NULL,NULL,NULL,NULL
+62,Tax_Value,القيمه المضافه,Tax Value,3,0,1,NULL,NULL,NULL,NULL
+63,Subject_Maill_Send_Of_Sales,تقرير حساب يومي,Report of Daily Transactions,9,0,1,NULL,NULL,NULL,NULL
+64,Main Data,البيانات الأساسيه,Main Data,9,0,1,NULL,NULL,NULL,NULL
+65,Category Seeting,إعدادات المجموعه,Category Seeting,9,0,1,NULL,NULL,NULL,NULL
+66,Name Arabic,الإسم عربي,Name Arabic,3,0,1,NULL,NULL,NULL,NULL
+67,English Name,الإسم أجنبي,Name English,3,0,1,NULL,NULL,NULL,NULL
+68,User Form Permmiosn,صلاحيات الشاشات,Form Permmiosn,9,0,1,NULL,NULL,NULL,NULL
+69,User Settings,إعدادت المستخدم,User Settings,9,0,1,NULL,NULL,NULL,NULL
+70,Store Permissions,صلاحيات المستودعات,Store Permissions,9,0,1,NULL,NULL,NULL,NULL
+71,Transaction Settings,إعدادت العمليات,Transaction Settings,9,0,1,NULL,NULL,NULL,NULL
+72,Is Admin,مدير نظام,Is Admin,3,0,1,NULL,NULL,NULL,NULL
+73,IsDefaults,الافتراضي,Is Defaults,3,0,1,NULL,NULL,NULL,NULL
+74,Cancel,إلغاء,Cancel,3,0,1,NULL,NULL,NULL,NULL
+75,Logout,تسجيل الخروج,Logout,3,0,1,NULL,NULL,NULL,NULL
+76,Show Categories,إظهار المجموعات,Show Categories,3,0,1,NULL,NULL,NULL,NULL
+77,Hide Categories,إخفاء المجموعات,Hide Categories,3,0,1,NULL,NULL,NULL,NULL
+78,Add New Item,إضافة صنف جديد,Add New Item,9,0,1,NULL,NULL,NULL,NULL
+79,Number In Smallest Unit,العدد لأصغر وحده,Number In Smallest Unit,3,0,1,NULL,NULL,NULL,NULL
+80,All Categories,كل المجموعات,All Categories,3,0,1,NULL,NULL,NULL,NULL
+81,None,لا يوجد,None,3,0,1,NULL,NULL,NULL,NULL
+82,Are you sure to delete unit?,هل أنت متأكد من الحذف,Are you sure to delete unit?,7,0,1,NULL,NULL,NULL,NULL
+83,Login,دخول,Login,3,0,1,NULL,NULL,NULL,NULL
+84,Register,تسجيل,Register,3,0,1,NULL,NULL,NULL,NULL
+85,Please enter arabic name,من فضلك ادخل الإسم العربي,Please enter arabic name,7,0,1,NULL,NULL,NULL,NULL
+86,Please Enter Name,من فضلك ادخل الاسم,Please Enter Name,7,0,1,NULL,NULL,NULL,NULL
+87,No Changes,لا توجد يغييرات,No Changes,7,0,1,NULL,NULL,NULL,NULL
+88,Please enter username,من فضلك ادخل اسم المستخدم,Please enter username,7,0,1,NULL,NULL,NULL,NULL
+89,Please enter password,من فضلك ادخل كلمة المرور,Please enter password,7,0,1,NULL,NULL,NULL,NULL
+90,Operation done successfully,تمت العملية بنجاح,Operation done successfully,7,0,1,NULL,NULL,NULL,NULL
+91,Send Mail With Sales on Close Application,إرسال أيميل بالمبيعات عند إغلاق النظام,Send Mail With Sales on Close Application,3,0,1,NULL,NULL,NULL,NULL
+92,Remove Item From Report Close Day,إخفاء الأصناف من تقرير إغلاق اليوم,Remove Item From Report Close Day,3,0,1,NULL,NULL,NULL,NULL
+93,Calc Discount With Vat,إحتساب الخصم مع  تسوية الضريبة,Calc Discount With Vat,3,0,1,NULL,NULL,NULL,NULL
+94,Logo and Name,الشعار وبيانات الشركة,Logo and Name,9,0,1,NULL,NULL,NULL,NULL
+95,Transfer Tax Value to Discount,تحويل الضريبة لخصم مباشر,Transfer Tax Value to Discount,3,0,1,NULL,NULL,NULL,NULL
+96,Show Item Price Without Tax,إظهار السعر بدون ضريبة,Show Item Price Without Tax,3,0,1,NULL,NULL,NULL,NULL
+97,Start Apply Tax on Sales and Purches, بدء تطبيق الضريبة علي المبيعات والمشتريات,Start Apply Tax on Sales and Purches,3,0,1,NULL,NULL,NULL,NULL
+98,Text Logo,نص الشعار,Text Logo,3,0,1,NULL,NULL,NULL,NULL
+99,Logo Image,شعار الشركة,Logo Image,9,0,1,NULL,NULL,NULL,NULL
+100,Upload Photo,رفع صورة,Upload Photo,3,0,1,NULL,NULL,NULL,NULL
+101,Capture Photo,إلتقاط صورة,Capture Photo,3,0,1,NULL,NULL,NULL,NULL
+102,Begin Balance,رصيد البداية,Begin Balance,3,0,1,NULL,NULL,NULL,NULL
+103,Current Balance,الرصيد الحالي,Current Balance,3,0,1,NULL,NULL,NULL,NULL
+104,Amount,القيمة,Amount,3,0,1,NULL,NULL,NULL,NULL
+105,Store,المستودع,Store,8,0,1,NULL,NULL,NULL,NULL
+106,Item Balance,رصيد الصنف,Item Balance,3,0,1,NULL,NULL,NULL,NULL
+107,Sales Price,سعر البيع,Sales Price,3,0,1,NULL,NULL,NULL,NULL
+108,Whole Sale,سعر الجملة,Whole Sale,3,0,1,NULL,NULL,NULL,NULL
+109,Total Cost,سعر التكلفة,Total Cost,3,0,1,NULL,NULL,NULL,NULL
+110,Cost Price,سعر التكلفة,Cost Price,3,0,1,NULL,NULL,NULL,NULL
+111,Total In Sales Price,الإجمالي بسعر البيع,Total In Sales Price,3,0,1,NULL,NULL,NULL,NULL
+112,Total In Cost Price,الإجمالي بسعر التكلفة,Total In Cost Price,3,0,1,NULL,NULL,NULL,NULL
+113,Confirmed,إعتمدت,Confirmed,3,0,1,NULL,NULL,NULL,NULL
+114,Price Begin Balance,سعر البداية,Price Begin Balance,3,0,1,NULL,NULL,NULL,NULL
+115,Price Sale,سعر البيع,Price Sale,3,0,1,NULL,NULL,NULL,NULL
+116,Total In Cost, الإجمالي بالتكلفة,Total In Cost,3,0,1,NULL,NULL,NULL,NULL
+117,Totals,مجـــاميــع,Total,3,0,1,NULL,NULL,NULL,NULL
+118,Balances,أرصـــــــده,Balances,3,0,1,NULL,NULL,NULL,NULL
+119,Details,البيـــــــــان,Details,3,0,1,NULL,NULL,NULL,NULL
+120,Length,الطول,Length,3,0,1,NULL,NULL,NULL,NULL
+121,Item Price,سعر المادة,Item Price,3,0,1,NULL,NULL,NULL,NULL
+122,Change Image,تغيير الصورة,Change Image,3,0,1,NULL,NULL,NULL,NULL
+123,Delete,حذف,Delete,3,0,1,NULL,NULL,NULL,NULL
+124,Capture Picture Camera,إلتقاط صور الكاميرا,Capture Picture Camera,9,0,1,NULL,NULL,NULL,NULL
+125,Camer Pictures,صور الاكميرا,Camer Pictures,3,0,1,NULL,NULL,NULL,NULL
+126,Capture Picture,الصورة الملتقطه,Capture Picture,3,0,1,NULL,NULL,NULL,NULL
+127,Item Discount,خصم الصنف,Item Discount,3,0,1,NULL,NULL,NULL,NULL
+128,Customer Is Requierd,مطلوب إختيار وتحديد العميل,Customer Selection Is Requierd,7,0,1,NULL,50:22.4,NULL,NULL
+129,Change Account,تغيير الحساب,Change Account,3,0,1,NULL,51:56.4,NULL,NULL
+130,Change,تغيير,Change,8,0,1,NULL,52:15.4,NULL,NULL
+131,Confirm Password,تأكيد كلمة المرور,Confirm Password,3,0,1,NULL,NULL,NULL,NULL
+132,Password,كلمة المرور,Password,3,0,1,NULL,NULL,NULL,NULL
+133,User Name,اسم المستخدم,User Name,3,0,1,NULL,NULL,NULL,NULL
+134,Terms and Condations,الشروط والأحكام,Terms and Condations,3,0,1,NULL,NULL,NULL,NULL
+135,Tax Number,الرقم الضريبي,Tax Number,3,0,1,NULL,NULL,NULL,NULL
+136,Settings,الإعدادات,Settings,3,0,1,NULL,NULL,NULL,NULL
+137,Percentage Sales,النسبة من المبيعات,Percentage Sales,3,0,1,NULL,NULL,NULL,NULL
+138,Default Discount,الخصم الإفتراضي,Default Discount,3,0,1,NULL,NULL,NULL,NULL
+139,Disply Sequence,ترتيب الظهور,Display Sequence,3,0,1,NULL,37:02.5,NULL,NULL
+140,Active,نشط,Active,3,0,1,NULL,NULL,NULL,NULL
+141,Show In POS,إظهار في نقاط البيع,Show In POS,3,0,1,NULL,NULL,NULL,NULL
+142,Open Price,سعر مفتوح,Open Price,3,0,1,NULL,NULL,NULL,NULL
+143,Not Store Item,صنف غير مخزني,Not Store Item,3,0,1,NULL,NULL,NULL,NULL
+144,Factor,العدد لأصغر وحده,Factor,3,0,1,NULL,NULL,NULL,NULL
+145,Count Unit,عدد الوحدات,Count Unit,3,0,1,NULL,NULL,NULL,NULL
+146,Enable Update,تفعيل التحديث,Enable Update,3,0,1,NULL,NULL,NULL,NULL
+147,Enable Delete,تفعيل الحذف,Enable Delete,3,0,1,NULL,NULL,NULL,NULL
+148,Enable Save,تفعيل الاضافة,Enable Save,3,0,1,NULL,NULL,NULL,NULL
+149,Enable Search,تفعيل البحث,Enable Search,3,0,1,NULL,NULL,NULL,NULL
+150,Max Debit,حد الدين,Max Debit,3,0,1,NULL,NULL,NULL,NULL
+151,Select,إختار,Select,3,0,1,NULL,NULL,NULL,NULL
+152,Id Number,الهوية,ID Number,3,0,1,NULL,NULL,NULL,NULL
+153,Suppliers,الموردون,Suppliers,1,5,1,NULL,NULL,NULL,NULL
+154,Add Supplier,إضافة مورد,Add Supplier,1,5,1,NULL,NULL,NULL,NULL
+155,Edit Supplier,تعديل مورد,Edit Supplier,1,5,1,NULL,NULL,NULL,NULL
+156,Add Customer,إضافة عميل,Add Customer,1,5,1,NULL,NULL,NULL,NULL
+157,Edit Customer,تعديل عميل,Edit Customer,1,5,1,NULL,NULL,NULL,NULL
+158,Value,القيمة,Value,1,5,1,NULL,NULL,NULL,NULL
+159,Notes,ملاحظات,Notes,1,5,1,NULL,NULL,NULL,NULL
+160,Customer Credit,مقبوضات العملاء,Customer Credit,1,5,1,NULL,NULL,NULL,NULL
+161,Supplier Credit,مدفوعات الموردين,Supplier Credit,1,5,1,NULL,NULL,NULL,NULL
+162,Date,التاريخ,Date,1,5,1,NULL,NULL,NULL,NULL
+163,Customers Payments,??????? ???????,Customers Payments,1,5,1,NULL,NULL,NULL,NULL
+164,Suppliers Payments,??????? ????????,Suppliers Payments,1,5,1,NULL,NULL,NULL,NULL
+165,Return Customers Payment,????? ??????? ???????,Return Customers Payment,1,5,1,NULL,NULL,NULL,NULL
+166,Return Suppliers Payment,????? ??????? ??????,Return Suppliers Payment,1,5,1,NULL,NULL,NULL,NULL
